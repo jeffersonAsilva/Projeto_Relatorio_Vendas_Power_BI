@@ -15,3 +15,5 @@ Junte-se ao Santander Bootcamp 2023 e inicie sua jornada na trilha de Ciências 
     Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
 
 ## Projeto Power BI Criando um Relatório de Vendas Elegante
+
+    Este projeto tem como base os fundamentos da utilização do Power BI.
