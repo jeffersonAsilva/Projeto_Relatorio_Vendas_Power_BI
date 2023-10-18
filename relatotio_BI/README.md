@@ -1,7 +1,3 @@
-![GitHub language count](https://img.shields.io/github/languages/count/jeffersonASilva/Projeto_Relatorio_Vendas_Power_BI)
-
-![GitHub top language](https://img.shields.io/github/languages/top/jeffersonASIlva/Projeto_Relatorio_Vendas_Power_BI)
-
 ## Santander Bootcamp 2023 - Ciência de Dados com Python.
 
 Junte-se ao Santander Bootcamp 2023 e inicie sua jornada na trilha de Ciências de Dados com Python! Acompanhe as aulas, enfrente desafios de código e projeto e conclua todas as atividades propostas
